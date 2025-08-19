@@ -13,7 +13,7 @@ const Footer = () => {
               <div className="w-8 h-8 bg-primary-500 rounded-lg flex items-center justify-center">
                 <span className="text-white font-bold text-lg">F</span>
               </div>
-              <span className="text-xl font-bold">Fashion Store</span>
+              <span className="text-xl font-bold">online Store</span>
             </div>
             <p className="text-gray-400 text-sm leading-relaxed">
               Your destination for modern, stylish clothing. We offer the latest trends in men's and women's fashion with quality materials and exceptional service.
